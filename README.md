@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qlqcoisaai/qlqcoisaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a0000&height=180&section=header&text=Alan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Linux+%7C+Redes+%7C+Cybersec;Fuçando+no+que+não+devia" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="assets/freira.jpg" width="100%"/>
+
+</div>
+
+## 👁️ Sobre
+
+- 🎓 Estudando Redes de Computadores
+- 🔧 Hardware, Linux e segurança
+- 🌑 Aqui é meu canto pessoal
+
+<div align="center">
+<img src="assets/estrela.jpg" width="100%"/>
+</div>
+
+## 🛠️ Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/maos.jpg" width="49%"/>
+<img src="assets/coringa.jpg" width="49%"/>
+</div>
+
+## 📊 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8b0000" height="170"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0000,100:000000&height=100&section=footer" width="100%"/>
