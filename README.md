@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="assets/freira.jpg" width="100%"/>
+<img src="freira.jpg" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🌑 Aqui é meu canto pessoal
 
 <div align="center">
-<img src="assets/estrela.jpg" width="100%"/>
+<img src="/estrela.jpg" width="100%"/>
 </div>
 
 ## 🛠️ Stack
@@ -29,8 +29,8 @@
 <br>
 
 <div align="center">
-<img src="assets/maos.jpg" width="49%"/>
-<img src="assets/coringa.jpg" width="49%"/>
+<img src="maos.jpg" width="49%"/>
+<img src="coringa.jpg" width="49%"/>
 </div>
 
 ## 📊 Stats
