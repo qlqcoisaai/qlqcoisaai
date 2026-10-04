@@ -36,7 +36,7 @@
 ## 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8b0000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=qlqcoisaai&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8b0000" height="170"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0000,100:000000&height=100&section=footer" width="100%"/>
