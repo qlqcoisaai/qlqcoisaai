@@ -24,8 +24,7 @@
 ◆ Mood    → Dark mode sempre
 ```
 
-Canto pessoal onde guardo laboratórios, scripts e anotações de estudo.
-
+Do que adianta gritar por algo que não te escuta.
 </td>
 <td width="38%" align="center">
 <img src="card_freira.jpg" width="220"/>
